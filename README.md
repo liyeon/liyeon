@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 💬도봉구 거주 소시민🤣🤣
+### 💬도봉구 거주 소시민🤣🤣
 <!--
 **liyeon/liyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
